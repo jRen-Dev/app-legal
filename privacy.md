@@ -1,4 +1,4 @@
-# Datenschutzerklärung – [APP-NAME]
+# Datenschutzerklärung – Paperbolt
 Stand: 2026-03-02
 
 ## 1. Überblick
