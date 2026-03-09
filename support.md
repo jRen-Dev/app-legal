@@ -1,4 +1,4 @@
-# Support – [APP-NAME]
+# Support – Paperbolt
 
 E-Mail: jrdev@posteo.de
 
